@@ -2,9 +2,9 @@
 
 :root{
     --cor-primaria: #000000;
-    --cor-secundaria: #f6f6f6;
+    --cor-secundaria: white;
     --cor-terciaria: #22d4fd;
-    --cor-hover: #262555;
+    --cor-hover: #25553b;
 
     --fonte-primaria: 'Krona one', sans-serif;
     --fonte-secundaria: 'Monteserrat', sans-serif;
